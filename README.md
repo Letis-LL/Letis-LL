@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she
-- ⚡ Fun fact: ...
+
+- 🤔 I’m looking for help with Python for data science
+- 💬 Ask me about anything 😎
+- 😄 Pronouns: Ela/Dela
+- ⚡ Fun fact: starting my data science journey
 
 
