@@ -1,4 +1,4 @@
-### Olá👋 Sou a Letis Oliveira!!
+### Olá👋 Sou a Silvia Leticia!!
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning data science
